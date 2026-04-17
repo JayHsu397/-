@@ -1,5 +1,9 @@
 # Taipei One-Day Plan (Draft)
 
+## Hoghlights
+* route.plan 處理交通
+* sum.plan 處理行程內容
+
 ## Versions
 
 * v1: 沒有後綴的是初版（根據群組行程）
