@@ -1,6 +1,6 @@
 # Taipei One-Day Plan (Draft)
 
-## Hoghlights
+## Highlights
 * route.plan 處理交通
 * sum.plan 處理行程內容
 
